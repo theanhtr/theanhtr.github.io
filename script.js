@@ -31,8 +31,8 @@ const messages = [
     "Em mà chọn Không, thì anh rất buồn đấy...",
     "Anh sẽ rất buồn đấy...",
     "Anh sẽ rất rất buồn đấyyyyyy...",
-    "Ok fine, anh không hỏi em nữa...",
-    "Anh đùa thui, làm ơn chọn Có đi mà, anh năn nỉ! ❤️"
+    "hicc, anh không hỏi em nữa...",
+    "Anh đùa thui, làm ơn chọn Có đi mà, pờ lyyyyy! ❤️"
 ];
 
 let messageIndex = 0;
